@@ -7,7 +7,7 @@ Languages and Technologies used in this project.
 
 ## How to run the project
 - Download the project zip file
-- CD into the directory `cd sec-app`
+- CD into the directory `cd SmartUser-App`
 - Install all packages with `npm install`
 - Start the server with `npm start`
 
