@@ -1,5 +1,8 @@
-# React Udemy Project No.2
-Languages and Technologies used in this project.
+# SmartUser App
+### Udemy Project No.2
+### Course: React - The Complete Guide 2023 (incl. React Router & Redux) <br> <br>
+
+## Languages and Technologies used in this project.
 - HTML
 - CSS 
 - Javascript
@@ -7,7 +10,7 @@ Languages and Technologies used in this project.
 
 ## How to run the project
 - Download the project zip file
-- CD into the directory `cd SmartUser-App`
+- CD into the directory
 - Install all packages with `npm install`
 - Start the server with `npm start`
 
